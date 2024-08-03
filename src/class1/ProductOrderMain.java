@@ -7,13 +7,13 @@ public class ProductOrderMain {
         ProductOrder order1 = new ProductOrder();
         order1.productName = "두부";
         order1.price = 2000;
-        order1.quantity = 2;
+        order1.quantity = 3;
         orders[0] = order1;
 
         ProductOrder order2 = new ProductOrder();
         order2.productName = "김치";
         order2.price = 5000;
-        order2.quantity = 1;
+        order2.quantity = 4;
         orders[1] = order2;
 
         ProductOrder order3 = new ProductOrder();
