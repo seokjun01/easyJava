@@ -15,7 +15,7 @@ public class ProductOrderMain2 {
 
 
     }
-
+//객체의 생성 및 바로 초기화 하는 메서드
     static ProductOrder createOrder( String productName, int price, int quantity) {
         ProductOrder order = new ProductOrder();
         order.productName = productName;
