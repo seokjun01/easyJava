@@ -32,4 +32,7 @@ public class AbstractMain {
         animal.move();
         System.out.println("동물 이동 종료");
     }
+
+
+    
 }
